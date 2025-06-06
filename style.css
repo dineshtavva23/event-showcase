@@ -40,15 +40,19 @@ body{
     }
 
 .nav-links a:hover {
-    color: #89e4f4;
-    transform: scale(1.04);
+  color: #89e4f4;
+  transform: scale(1.04);
     
     }
 
 
 .navbar h1{
-    padding-left: 16px;
-    font-size: 1.8rem;
+  padding-left: 16px;
+  font-size: 1.8rem;
+}
+.navbar h1 a{
+  text-decoration: none;
+  color: #ffffff;
 }
 
 .navbar h1:hover{
@@ -361,3 +365,4 @@ body.light-theme .footer-bottom {
   color: #606060;
   border-top: 1px solid #ccc;
 }
+
