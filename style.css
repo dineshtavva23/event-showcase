@@ -9,12 +9,7 @@ body{
    align-items: center;
    justify-content: space-between;
 }
-.navbar-light{
-  background: rgba(235, 215, 215, 0.7);
-  backdrop-filter: blur(10px);
-  box-shadow: 0 2px 12px rgba(57, 7, 7, 0.1);
-  color: #000000;
-}
+
 
 
 
@@ -104,10 +99,7 @@ body{
     
 }
 
-.hero-light {
-  background: linear-gradient(to right, #ffe29f, #ffa99f, #ff719a);
-  color: #202020;
-}
+
 
 .hero-dark {
   background: radial-gradient(circle at top left, #0f2027, #203a43, #2c5364);
@@ -193,12 +185,6 @@ body{
   font-family: 'Segoe UI', sans-serif;
 }
 
-.footer-light {
-  background: rgba(255, 255, 255, 0.6);
-  backdrop-filter: blur(8px);
-  border-top: 1px solid #ccc;
-  color: #222;
-}
 
 
 .footer-dark {
